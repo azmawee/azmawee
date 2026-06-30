@@ -53,8 +53,8 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer*
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=azmawee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik GitHub Azmawee" width="100%"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmawee&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa pengaturcaraan teratas" width="100%"></td>
+    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=azmawee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik GitHub Azmawee" width="100%"></td>
+    <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azmawee&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa pengaturcaraan teratas" width="100%"></td>
   </tr>
 </table>
 
@@ -64,7 +64,7 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer*
 
 ### Projek Semasa
 
-| Projek | Apa dia buat | Link |
+| Projek | Penerangan| Link |
 |---|---|---|
 | **Kalkulator Ar-Rahnu (SSJ)** | Kalkulator Ar-Rahnu Malaysia: semak surat emas, overlap, hoverlap, nilai marhun, upah simpan, tebus sebahagian & reset surat. Kiraan jalan dalam browser, data pengguna kawal sendiri. Live di [freebsd.my/arrahnu](https://freebsd.my/arrahnu). | [kalkulator-arrahnu](https://github.com/azmawee/kalkulator-arrahnu) |
 | **Rekod SSJ** | Sistem rekod untuk penyimpan emas: catat setiap keping emas, ikut nilai & untung, catat jualan, ada ruang surat Ar-Rahnu. Semua data dienkripsi (AES-GCM) dan disimpan dalam cloud sendiri (Google Drive / Dropbox), bukan di server. | [rekod-ssj](https://github.com/azmawee/rekod-ssj) |
@@ -73,7 +73,7 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer*
 
 ### Repos GitHub
 
-| Repo | Apa dia buat | Bahasa |
+| Repo | Penerangan| Bahasa |
 |---|---|---|
 | [**EmperorReborn**](https://github.com/azmawee/EmperorReborn) [![Stars](https://img.shields.io/github/stars/azmawee/EmperorReborn?style=social)](https://github.com/azmawee/EmperorReborn) | Main **Emperor: Battle for Dune** atas Windows 10/11 dengan widescreen 16:9 sebenar, fullscreen, dan multiplayer berfungsi. Launcher dan patcher open-source untuk RTS Westwood. | C |
 | [**maui-web-explorer**](https://github.com/azmawee/maui-web-explorer) | File explorer PHP dalam **satu fail** je. Zero dependency, tak payah database. Stream fail besar dengan resume (HTTP Range), sokong symlink, ada preview media. Jalan atas Apache, Nginx, atau mana-mana pelayan PHP. Lesen BSD-2-Clause. | PHP |
