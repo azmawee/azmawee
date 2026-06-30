@@ -15,7 +15,7 @@ menetap di **Kuala Lumpur, Malaysia** 🇲🇾
 
 ---
 
-### 🧭 Profile saya
+### Profile
 
 Saya bersara dari **Bank Negara Malaysia (BNM)** pada tahun 2024 selaku jurutera *Cyber Security Threat Intelligence*. Sebelum itu, lebih dua dekad saya habiskan dalam bidang IT - bermula dari support sistem, mendalami kejuruteraan Unix/FreeBSD, dan akhirnya ke threat intelligence di bank pusat.
 
@@ -99,6 +99,27 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer*
 ### 🪙 Di luar IT
 
 **Peniaga emas sambilan dan penyimpan emas fizikal.** Saya percaya pada kebebasan kewangan dan menyimpan nilai dalam emas fizikal, selari dengan falsafah hidup bebas.
+
+### 🔐 PGP Public Key
+
+![key](https://img.shields.io/badge/RSA-4096-00ADD8?style=flat-square&logo=gnuprivacyguard&logoColor=white)
+![key id](https://img.shields.io/badge/key__id-712DAA69-181717?style=flat-square)
+![verified](https://img.shields.io/badge/verified-2025--08--07-success?style=flat-square)
+
+```text
+$ gpg --recv-keys 712DAA69
+$ gpg --locate-keys azmawee@freebsd.my
+
+email       azmawee@freebsd.my
+key id      712D AA69
+type        RSA 4096-bit [SCEA]
+created     2016-10-05    verified    2025-08-07
+fingerprint 8BF7 D0AF CA45 5313 A3BF  ACFB B90B 66C7 712D AA69
+```
+
+🔗 [keys.openpgp.org](https://keys.openpgp.org/search?q=azmawee%40freebsd.my) · [full public key (.asc)](https://azmawee.freebsd.my/pgp)
+
+*Untuk sesiapa yang nak verify saya, atau nak komunikasi encrypted.*
 
 ### 📫 Hubungi saya
 
