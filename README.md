@@ -121,7 +121,7 @@ fingerprint 8BF7 D0AF CA45 5313 A3BF  ACFB B90B 66C7 712D AA69
 
 *Untuk sesiapa yang nak verify saya, atau nak komunikasi encrypted.*
 
-### 📫 Hubungi saya
+### Link
 
 - 🌐 [azmawee.freebsd.my](https://azmawee.freebsd.my) - blog peribadi
 - 🐡 [freebsd.my](https://freebsd.my) - komuniti FreeBSD Malaysia
@@ -130,6 +130,6 @@ fingerprint 8BF7 D0AF CA45 5313 A3BF  ACFB B90B 66C7 712D AA69
 
 <div align="center">
 
-*"hidup bebas berjejak bumi"* - hidup bebas, tinggalkan jejak di bumi.
+*"Hidup Bebas Berjejak Bumi"*
 
 </div>
