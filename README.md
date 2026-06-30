@@ -15,9 +15,9 @@ menetap di **Kuala Lumpur, Malaysia** 🇲🇾
 
 ---
 
-### 🧭 Pasal saya
+### 🧭 Profile saya
 
-Saya baru sahaja bersara dari **Bank Negara Malaysia (BNM)** selaku jurutera *Cyber Security Threat Intelligence*. Sejak hujung 90an saya menceburi bidang IT: mula-mula dari Terengganu sebagai support teknikal, lepas tu naik jadi jurutera sistem Unix, dan akhirnya ke threat intelligence di bank pusat.
+Saya bersara dari **Bank Negara Malaysia (BNM)** pada tahun 2024 selaku jurutera *Cyber Security Threat Intelligence*. Sejak hujung 90an saya menceburi bidang IT: mula-mula dari Terengganu sebagai support teknikal, lepas tu naik jadi jurutera sistem Unix, dan akhirnya ke threat intelligence di bank pusat.
 
 Sekarang saya fokus pada tiga perkara: **Automation, AI, dan Cybersecurity**. Saya gemar membina tool dan automasi kecil-kecil yang ringkas, boleh diguna semula, dan tak bergantung pada macam-macam dependency. Bagi saya, perisian yang paling baik ialah yang buat satu benda dengan elok dan jalan di atas pelayan yang dah ada.
 
@@ -40,7 +40,7 @@ Dan di luar dunia IT, saya juga seorang **peniaga emas sambilan** serta **penyim
 
 ### 💼 Kerjaya (ringkasan)
 
-- **Bank Negara Malaysia** - Threat Intelligence Resident Engineer (2020 hingga bersara)
+- **Bank Negara Malaysia** - Threat Intelligence Resident Engineer (2020 - 2024)
 - **Elken Global** - IT Security Administrator (2018 - 2020)
 - **DHL Information Services (APAC)** - IT Security Consultant (2015 - 2017)
 - **T-Systems Malaysia** - 3LP Engineer (2014 - 2015)
@@ -50,18 +50,12 @@ Dan di luar dunia IT, saya juga seorang **peniaga emas sambilan** serta **penyim
 - **Waterco (Far East)** - System Support (2003 - 2005)
 - Bermula di Terengganu sejak 1995 (ThreeTech, IP Address, dan kerja freelance awal)
 
-### 🏆 Sedikit penghargaan
-
-- *SNMC Engineer of the Month* - Oktober 2005, Emerio Malaysia
-- *Employee of the Month* (pencalonan) - Februari 2008, ACS Malaysia
-- Surat pujian atas komitmen dan profesionalisme - 2008, ACS Malaysia
-
 ### 🌍 Komuniti & open source
 
 - **MyBSD** ([mybsd.org.my](http://www.mybsd.org.my)) - ahli sejak 2001
 - **Audio Monsta** ([audiomonsta.com](https://audiomonsta.com)) - pengasas dan maintainer
 - **Leet Gamers** ([leetgamers.asia](https://leetgamers.asia)) - portal gaming
-- Skrip dan dokumentasi teknikal di [azmawee.com](https://azmawee.com):
+- Skrip dan dokumentasi teknikal di blog peribadi: [azmawee.freebsd.my](https://azmawee.freebsd.my):
   - Skrip pemantauan DMARC/SPF
   - Skrip Dynamic DNS auto-update (nsupdate / BIND)
   - **BoxMenu** - tool pentadbiran pelayan FreeBSD berasaskan ncurses
@@ -111,7 +105,7 @@ Dan di luar dunia IT, saya juga seorang **peniaga emas sambilan** serta **penyim
 
 ### 📫 Hubungi saya
 
-- 🌐 [azmawee.com](https://azmawee.com) - skrip dan dokumentasi teknikal
+- 🌐 [azmawee.freebsd.my](https://azmawee.freebsd.my) - blog peribadi
 - 🐡 [freebsd.my](https://freebsd.my) - komuniti FreeBSD Malaysia
 - 💬 GitHub: [@azmawee](https://github.com/azmawee)
 - 📘 Facebook: [facebook.com/azmawee](https://www.facebook.com/azmawee)
