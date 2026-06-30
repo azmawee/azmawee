@@ -17,7 +17,7 @@ menetap di **Kuala Lumpur, Malaysia** 🇲🇾
 
 ### 🧭 Profile saya
 
-Saya bersara dari **Bank Negara Malaysia (BNM)** pada tahun 2024 selaku jurutera *Cyber Security Threat Intelligence*. Sejak hujung 90an saya menceburi bidang IT: mula-mula dari Terengganu sebagai support teknikal, lepas tu naik jadi jurutera sistem Unix, dan akhirnya ke threat intelligence di bank pusat.
+Saya bersara dari **Bank Negara Malaysia (BNM)** pada tahun 2024 selaku jurutera *Cyber Security Threat Intelligence*. Sebelum itu, lebih dua dekad saya habiskan dalam bidang IT - bermula dari support sistem, mendalami kejuruteraan Unix/FreeBSD, dan akhirnya ke threat intelligence di bank pusat.
 
 Sekarang saya fokus pada tiga perkara: **Automation, AI, dan Cybersecurity**. Saya gemar membina tool dan automasi kecil-kecil yang ringkas, boleh diguna semula, dan tak bergantung pada macam-macam dependency. Bagi saya, perisian yang paling baik ialah yang buat satu benda dengan elok dan jalan di atas pelayan yang dah ada.
 
@@ -40,15 +40,9 @@ Dan di luar dunia IT, saya juga seorang **peniaga emas sambilan** serta **penyim
 
 ### 💼 Kerjaya (ringkasan)
 
-- **Bank Negara Malaysia** - Threat Intelligence Resident Engineer (2020 - 2024)
-- **Elken Global** - IT Security Administrator (2018 - 2020)
-- **DHL Information Services (APAC)** - IT Security Consultant (2015 - 2017)
-- **T-Systems Malaysia** - 3LP Engineer (2014 - 2015)
-- **CIMB Group (GIOD)** - Sr. IT Security Consultant (2013 - 2014)
-- **Xerox / ACS Malaysia** - ESM Engineer (2007 - 2013)
-- **HP / Emerio Malaysia** - Technical Consultant (2005 - 2007)
-- **Waterco (Far East)** - System Support (2003 - 2005)
-- Bermula di Terengganu sejak 1995 (ThreeTech, IP Address, dan kerja freelance awal)
+Lebih dua dekad saya habiskan dalam keselamatan siber dan kejuruteraan Unix/FreeBSD. Saya melalui beberapa fasa: bermula sebagai support sistem dan technical consultant di **Waterco (Far East)** serta **HP/Emerio Malaysia**, hampir enam tahun sebagai ESM Engineer di **Xerox/ACS Malaysia**, kemudian beralih sepenuhnya ke bidang security - sebagai perunding di **CIMB Group (GIOD)**, **T-Systems Malaysia**, **DHL Information Services (APAC)**, dan **Elken Global**.
+
+Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer** di Bank Negara Malaysia (BNM) dari 2020 hingga bersara pada 2024. Kini saya menumpukan masa kepada **Automation, AI, dan Cybersecurity** secara bebas, di samping komuniti open source.
 
 ### 🌍 Komuniti & open source
 
