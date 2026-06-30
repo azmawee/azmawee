@@ -64,6 +64,7 @@ I spent my early career in banking (Bank Negara Malaysia, then CIMB). These days
 
 - 🌐 Blog / community: [freebsd.my](https://freebsd.my)
 - 💬 GitHub: [@azmawee](https://github.com/azmawee)
+- 📘 Facebook: [facebook.com/azmawee](https://www.facebook.com/azmawee)
 
 <div align="center">
 
