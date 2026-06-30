@@ -62,6 +62,15 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer*
 
 ---
 
+### 🚀 Projek terbaru
+
+| Projek | Apa dia buat | Link |
+|---|---|---|
+| **Kalkulator Ar-Rahnu (SSJ)** | Kalkulator Ar-Rahnu Malaysia: semak surat emas, overlap, hoverlap, nilai marhun, upah simpan, tebus sebahagian & reset surat. Kiraan jalan dalam browser, data pengguna kawal sendiri. Live di [freebsd.my/arrahnu](https://freebsd.my/arrahnu). | [kalkulator-arrahnu](https://github.com/azmawee/kalkulator-arrahnu) |
+| **Rekod SSJ** | Sistem rekod untuk penyimpan emas: catat setiap keping emas, ikut nilai & untung, catat jualan, ada ruang surat Ar-Rahnu. Semua data dienkripsi (AES-GCM) dan disimpan dalam cloud sendiri (Google Drive / Dropbox), bukan di server. | [rekod-ssj](https://github.com/azmawee/rekod-ssj) |
+
+> Dua-dua repo di atas ialah **showcase & dokumentasi** publik. Source code aplikasi adalah proprietary (tutup); untuk guna, terus buka website masing-masing.
+
 ### 🔭 Repos GitHub saya
 
 | Repo | Apa dia buat | Bahasa |
