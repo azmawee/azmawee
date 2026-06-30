@@ -62,7 +62,7 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer*
 
 ---
 
-### 🚀 Projek terbaru
+### Projek Semasa
 
 | Projek | Apa dia buat | Link |
 |---|---|---|
@@ -71,7 +71,7 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer*
 
 > Dua-dua repo di atas ialah **showcase & dokumentasi** publik. Source code aplikasi adalah proprietary (tutup); untuk guna, terus buka website masing-masing.
 
-### 🔭 Repos GitHub saya
+### Repos GitHub
 
 | Repo | Apa dia buat | Bahasa |
 |---|---|---|
