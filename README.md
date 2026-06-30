@@ -8,8 +8,7 @@
 
 **Automation · AI · Cybersecurity** itu fokus saya sekarang.
 Sebelum ni saya bekerja dalam keselamatan siber dan kejuruteraan
-Unix/FreeBSD selama lebih 25 tahun. Berasal dari Terengganu, sekarang
-menetap di **Kuala Lumpur, Malaysia** 🇲🇾
+Unix/FreeBSD selama lebih 25 tahun.
 
 </div>
 
