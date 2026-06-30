@@ -38,7 +38,7 @@ Lebih dua dekad saya habiskan dalam keselamatan siber dan kejuruteraan Unix/Free
 
 Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer** di Bank Negara Malaysia (BNM) dari 2020 hingga bersara pada 2024. Kini saya menumpukan masa kepada **Automation, AI, dan Cybersecurity** secara bebas, di samping komuniti open source.
 
-### 🌍 Komuniti & open source
+### Komuniti
 
 - **MyBSD** ([mybsd.org.my](http://www.mybsd.org.my)) - ahli sejak 2001
 - **Audio Monsta** ([audiomonsta.com](https://audiomonsta.com)) - pengasas dan maintainer
@@ -82,7 +82,7 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer*
 | [**Maui-AI-Gajah-Terbang**](https://github.com/azmawee/Maui-AI-Gajah-Terbang) | Pembantu penyelidikan berasaskan Streamlit, local LLM (LM Studio) dengan carian DuckDuckGo. | Python |
 | [**mini-heist**](https://github.com/azmawee/mini-heist) | Permainan kecil untuk konsol **Playdate**. | Lua |
 
-### 🛠️ Teknologi
+### Teknologi
 
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-B5402D?logo=freebsd&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
