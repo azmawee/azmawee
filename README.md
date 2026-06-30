@@ -107,16 +107,14 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer*
 
 ```text
 $ gpg --recv-keys 712DAA69
-$ gpg --locate-keys azmawee@freebsd.my
 
-email       azmawee@freebsd.my
 key id      712D AA69
 type        RSA 4096-bit [SCEA]
 created     2016-10-05    verified    2025-08-07
 fingerprint 8BF7 D0AF CA45 5313 A3BF  ACFB B90B 66C7 712D AA69
 ```
 
-🔗 [keys.openpgp.org](https://keys.openpgp.org/search?q=azmawee%40freebsd.my) · [full public key (.asc)](https://azmawee.freebsd.my/pgp)
+🔗 [keys.openpgp.org](https://keys.openpgp.org/search?q=712DAA69) · [full public key (.asc)](https://azmawee.freebsd.my/pgp)
 
 *Untuk sesiapa yang nak verify saya, atau nak komunikasi encrypted.*
 
