@@ -23,7 +23,7 @@ Sekarang saya fokus pada tiga perkara: **Automation, AI, dan Cybersecurity**. Sa
 
 Dan di luar dunia IT, saya juga seorang **peniaga emas sambilan** serta **penyimpan emas fizikal**.
 
-### 🛡️ Bidang kepakaran
+### Bidang
 
 - **Keselamatan siber:** threat intelligence, vulnerability assessment & management (Nessus, Qualys), malware analysis, server hardening, IDS/IPS (Snort), SOC dan Critical Threats Alert
 - **Unix & BSD:** FreeBSD, OpenBSD, NetBSD, Linux, Solaris, HP-UX, AIX
@@ -32,7 +32,7 @@ Dan di luar dunia IT, saya juga seorang **peniaga emas sambilan** serta **penyim
 - **Endpoint:** Sophos Intercept-X (EDR), Hexnode dan Sophos MDM
 - **Automation & AI:** skrip automasi pelayan, local LLM (LM Studio), Streamlit
 
-### 💼 Kerjaya (ringkasan)
+### Kerjaya
 
 Lebih dua dekad saya habiskan dalam keselamatan siber dan kejuruteraan Unix/FreeBSD. Saya melalui beberapa fasa: bermula sebagai support sistem dan technical consultant di **Waterco (Far East)** serta **HP/Emerio Malaysia**, hampir enam tahun sebagai ESM Engineer di **Xerox/ACS Malaysia**, kemudian beralih sepenuhnya ke bidang security - sebagai perunding di **CIMB Group (GIOD)**, **T-Systems Malaysia**, **DHL Information Services (APAC)**, dan **Elken Global**.
 
