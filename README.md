@@ -96,7 +96,7 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer*
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apachetomcat&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### 🪙 Di luar IT
+### Lain-lain
 
 **Peniaga emas sambilan dan penyimpan emas fizikal.** Saya percaya pada kebebasan kewangan dan menyimpan nilai dalam emas fizikal, selari dengan falsafah hidup bebas.
 
