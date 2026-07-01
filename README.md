@@ -35,7 +35,7 @@ Dan di luar dunia IT, saya juga seorang **peniaga emas sambilan** serta **penyim
 
 Lebih dua dekad saya habiskan dalam keselamatan siber dan kejuruteraan Unix/FreeBSD, merentasi pelbagai fasa dan organisasi sepanjang kerjaya - antaranya sebagai perunding di **CIMB Group (GIOD)**.
 
-Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer** di Bank Negara Malaysia (BNM) dari 2020 hingga bersara pada 2024. Kini saya menumpukan masa kepada **Automation, AI, dan Cybersecurity** secara bebas, di samping komuniti open source.
+Penghujung kerjaya saya sandang jawatan **Threat Intelligence Engineer** di Bank Negara Malaysia (BNM) dari 2020 hingga bersara pada 2024. Kini saya menumpukan masa kepada **Automation, AI, dan Cybersecurity** secara bebas, di samping komuniti open source.
 
 ### Komuniti
 
