@@ -33,7 +33,7 @@ Dan di luar dunia IT, saya juga seorang **peniaga emas sambilan** serta **penyim
 
 ### Kerjaya
 
-Lebih dua dekad saya habiskan dalam keselamatan siber dan kejuruteraan Unix/FreeBSD. Saya melalui beberapa fasa: bermula sebagai support sistem dan technical consultant di **Waterco (Far East)** serta **HP/Emerio Malaysia**, hampir enam tahun sebagai ESM Engineer di **Xerox/ACS Malaysia**, kemudian beralih sepenuhnya ke bidang security - sebagai perunding di **CIMB Group (GIOD)**, **T-Systems Malaysia**, **DHL Information Services (APAC)**, dan **Elken Global**.
+Lebih dua dekad saya habiskan dalam keselamatan siber dan kejuruteraan Unix/FreeBSD, merentasi pelbagai fasa dan organisasi sepanjang kerjaya - antaranya sebagai perunding di **CIMB Group (GIOD)**.
 
 Penghujung kerjaya saya sandang jawatan **Threat Intelligence Resident Engineer** di Bank Negara Malaysia (BNM) dari 2020 hingga bersara pada 2024. Kini saya menumpukan masa kepada **Automation, AI, dan Cybersecurity** secara bebas, di samping komuniti open source.
 
