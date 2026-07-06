@@ -74,6 +74,7 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Engineer** di Bank
 
 | Repo | Penerangan| Bahasa |
 |---|---|---|
+| [**notegrit**](https://github.com/azmawee/notegrit) [![Stars](https://img.shields.io/github/stars/azmawee/notegrit?style=social)](https://github.com/azmawee/notegrit) | Editor teks **plain-text** untuk Windows 10/11, satu fail **16 KB** `.exe`. Tiada runtime, tiada .NET, tiada Electron, pure x86 assembly. Buka pantas, ingat tema gelap dan zoom, kira perkataan live, edit fail besar, installer assembly sendiri. Lesen BSD-2-Clause. | Assembly |
 | [**EmperorReborn**](https://github.com/azmawee/EmperorReborn) [![Stars](https://img.shields.io/github/stars/azmawee/EmperorReborn?style=social)](https://github.com/azmawee/EmperorReborn) | Main **Emperor: Battle for Dune** atas Windows 10/11 dengan widescreen 16:9 sebenar, fullscreen, dan multiplayer berfungsi. Launcher dan patcher open-source untuk RTS Westwood. | C |
 | [**maui-web-explorer**](https://github.com/azmawee/maui-web-explorer) | File explorer PHP dalam **satu fail** je. Zero dependency, tak payah database. Stream fail besar dengan resume (HTTP Range), sokong symlink, ada preview media. Jalan atas Apache, Nginx, atau mana-mana pelayan PHP. Lesen BSD-2-Clause. | PHP |
 | [**seni-freebsd**](https://github.com/azmawee/seni-freebsd) | Rujukan buku FreeBSD: **Seni Membina Rangkaian Rumah Moden**. | Shell |
@@ -90,6 +91,7 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Engineer** di Bank
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=assemblyscript&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apachetomcat&logoColor=white)
