@@ -99,7 +99,7 @@ Penghujung kerjaya saya sandang jawatan **Threat Intelligence Engineer** di Bank
 
 ### Lain-lain
 
-**Peniaga emas sambilan dan penyimpan emas fizikal.** Saya percaya pada kebebasan kewangan dan menyimpan nilai dalam emas fizikal, selari dengan semangat Open Source.
+**Peniaga emas sambilan dan penyimpan emas fizikal.** Saya percaya pada kebebasan kewangan dan menyimpan nilai dalam emas fizikal, selari dengan falsafah hidup bebas.
 
 ### 🔐 PGP Public Key
 
